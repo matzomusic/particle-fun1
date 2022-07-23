@@ -1,4 +1,4 @@
-# particle-fun1
+# Star Simluator
 
 ## Click anywhere on the page to add a star. 
 ## Stars gradually grow in size.
